@@ -19,7 +19,11 @@ Values saved across restarts as saved variables
 ![mainsail tools](/img/variables_1.png)
 
 ## Macros
-Please see the cfg files in this repo.
+Please see the cfg files in this repo. Set tools value to the same number as lanes you have.
+```
+[gcode_macro SPOOLMAN_CONFIG]
+variable_tools: 5
+```
 
 ## Trad Rack
 ```
