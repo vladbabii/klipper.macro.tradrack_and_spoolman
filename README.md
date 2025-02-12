@@ -2,6 +2,8 @@
 
 These settings are on top of installing spoolmain via kiauh!
 
+This is also work-in-progress so please double-check everything before using.
+
 ## Mainsail integration effects
 
 Per spool spoolman options
