@@ -1,5 +1,21 @@
 # Klipper Macro Configuration for Trad Rack, Spoolman and Mainsail
 
+These settings are on top of installing spoolmain via kiauh!
+
+## Mainsail integration effects
+
+Per spool spoolman options
+
+![mainsail tools](/img/mainsail_1.png)
+
+Extruder colors
+
+![mainsail tools](/img/mainsail_2.png)
+
+Values saved across restarts as saved variables
+
+![mainsail tools](/img/variables_1.png)
+
 ## Macros
 Please see the cfg files in this repo.
 
